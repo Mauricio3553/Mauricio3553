@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Eu Sou Maurício, sou programador Front End, atualmente estou estudando e aprendendo HTMAL, CSS, JAVASCRIPT e REACT.
+Eu Sou Maurício, sou programador Front End, atualmente estou estudando e aprendendo HTML, CSS, JAVASCRIPT e REACT.
 
 <a href="https://www.instagram.com/mauricioleite3553/" target="_blank">  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSERNAME/" alt="logo-instagram"> </a>
 <br>
